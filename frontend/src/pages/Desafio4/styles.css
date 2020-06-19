@@ -1,0 +1,30 @@
+h2{
+    margin: 40px 0 40px 30px;
+}
+form{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+
+input {
+    width: 140px;
+    padding: 12px 20px;
+  
+  }
+.cepInput{
+    margin-left: 30px;
+}
+button{
+   
+    width: 100px;
+    height: 40px;
+}
+li{
+    list-style: none;
+}
+.resultItem:not(:first-child){
+    list-style:  none;
+    margin-left: 50px;
+}

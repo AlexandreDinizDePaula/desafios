@@ -1,0 +1,26 @@
+.desafio2-container{
+    display: flex;
+    justify-content: center;
+   
+}
+.form-desafio2{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+input{
+    margin-bottom: 20px;
+}
+button{
+    margin-left: 100px;
+}
+.desafio2-result{
+   
+    margin-top: 150px;
+    margin-left: 50px;
+    
+}
+.desafio2-result li{
+    width: 200px;
+}
